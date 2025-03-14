@@ -1,0 +1,45 @@
+_repo: Wild-oats_75552
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bok, Edward William
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1223'
+    url: http://www.gutenberg.org/2009/agents/1223
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Bok
+creator:
+  author:
+    agent_name: Oppenheim, James
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '3958'
+    url: http://www.gutenberg.org/2009/agents/3958
+    wikipedia: https://en.wikipedia.org/wiki/James_Oppenheim
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75552'
+  lccn: '10015637'
+language: en
+pgterms:marc904: https://archive.org/details/wildoats00oppeiala/page/n5/mode/2up
+pgterms:marc905: 20210814175141oppenheim
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, Angela Anderson, and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bB. W. Huebsch, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Sexually transmitted diseases -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Wild oats
+url: http://www.gutenberg.org/ebooks/75552
